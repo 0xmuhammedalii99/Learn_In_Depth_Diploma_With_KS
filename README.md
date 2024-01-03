@@ -1,1 +1,1 @@
-# Learn-in-Depth-Diploma
+# Mastaring Embedded System Diploma
